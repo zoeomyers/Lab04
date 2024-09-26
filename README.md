@@ -1,0 +1,2 @@
+This lab would have been a lot more time consuming without encapsulation, and a lot less beginner-friendly without generalization.
+Encapsulation ensured that we didn't have to type the basic shapes for every function. Generalization (or parameters) granted control over the finer aspects of the design. 
